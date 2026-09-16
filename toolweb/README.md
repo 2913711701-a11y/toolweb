@@ -1,4 +1,4 @@
-# ToolWeb 静态站
+# ToolWeb  静态站
 
 把原来的 WordPress 主题重构成**纯静态站点**：不依赖 PHP / 数据库 / 后端，改完数据跑一条命令生成全部 HTML，直接部署到 Cloudflare Pages。
 
